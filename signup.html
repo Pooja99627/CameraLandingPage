@@ -1,0 +1,176 @@
+<html>
+    <head>
+    <title>
+       Signup Page
+    </title>
+    <!--style.css-->
+     <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
+    <style>
+   body {
+    background-image: url('https://wallpapercave.com/wp/wp2505774.jpg');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+.back-icon{
+    position: absolute;
+    top:20px;
+    left:60px;
+    font-size:50px;
+    color:#b26b00d2;
+   cursor: pointer;
+   font-size: 24px;
+}
+
+/* Container for form and image */
+.formsec {
+    display: flex;
+    width: 80%;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.7); /* semi-transparent black */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Form container */
+form {
+    width: 50%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    align-items: center;
+}
+
+/* Input fields */
+form input[type="text"],
+form input[type="email"],
+form input[type="password"] {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: none;
+    font-size: 14px;
+    outline: none;
+}
+/* Checkbox label */
+form label {
+    font-size: 14px;
+    margin: 10px 0;
+}
+
+form input[type="checkbox"] {
+    margin-right: 8px;
+}
+button{
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: #B26B00;
+    border-style: none;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+/* Image section */
+.img {
+    width: 50%;
+    height: 100%;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+/* Link styling */
+a {
+    color: #B26B00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive for smaller screens */
+/* Responsive for smaller screens */
+@media (max-width: 768px) {
+    .formsec {
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+    }
+
+    form {
+        width: 80%;
+        height: auto;
+    }
+    .img{
+        width: 100%;
+    
+    }
+    .img img {
+        border-radius: 0 0 10px 10px;
+        height: 100%;
+    }
+    .back-icon{
+    position: absolute;
+    top:0px;
+    left:30px;
+    font-size:50px;
+    color:#b26b00d2;
+   cursor: pointer;
+   font-size: 24px;
+}
+}
+    </style>
+    </head>
+    <body>
+                <i class="bi bi-arrow-left back-icon" onclick="window.location.href='index.html'"></i>
+        <div class="formsec">
+         <form id="form"  action="index.html" onsubmit="return validateForm(event)">
+              <div>  
+                <div><input type="text"  placeholder="full name" id="fullname">
+                    <p style="color:rgb(46, 247, 6)" id="name_error"></p>
+                </div>
+              <div><input type="email"  placeholder="email Address" id="email">
+                <p style="color:rgb(46, 247, 6)"  id="email_error"></p>
+            </div>
+                <div> <input type="password"  placeholder="password" id="password">
+                    <p style="color:rgb(46, 247, 6)"  id="password_error"></p>
+                </div>
+                <label>
+                 <input type="checkbox" name="terms" required>
+                 I agree to the <a href="/terms" target="_blank">Terms and Conditions</a>
+                 </label><br><br>
+                 <button>
+                    Get Started Now
+                 </button>
+                 <p>Already a member? <a  href="signin.html" target="_blank">Singin</a></p>
+                </div>
+            </form>
+            <div class="img">
+                <img src="images/femalephotographer.png" alt="">
+            </div>
+        </div>
+        <script src="js/script.js"></script>
+    </body>
+</html>
